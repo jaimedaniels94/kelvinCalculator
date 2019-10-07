@@ -7,3 +7,4 @@ let fahrenheit = celsius * (9/5) + 32;
 //rounding fahrenheit down:
 fahrenheit = (Math.floor(fahrenheit));
 console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
+//git test
